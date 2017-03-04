@@ -15,10 +15,15 @@ The back end of the TaxBrain web application is a suite of economic models rangi
 3. Interactive visualizations for OG-USA output
 
 
-## Interactive visualizations for Cost of Capital Calculator output
+## 1. Interactive visualizations for Cost of Capital Calculator output
 
 The [Cost of Capital Calculator](https://www.ospc.org/ccc/) ([https://www.ospc.org/ccc/](https://www.ospc.org/ccc/)) is a front-end web app for an underlying microsimulation model that takes corporate tax policy parameters and estimates the marginal tax rates on investment faced by firms broken down by industry, method of financing, and asset type.
 
-Currently, the output are tabular and can be changed by selecting different button options (see screenshot below).
+Currently, the Cost of Capital Calculator output are tabular and can be changed by selecting different button options (see screenshot below).
 
 ![Alt text](/images/CCCscreenshot.png?raw=true "CCC Screenshot")
+
+One potential visualization using this data that has been used by the Congressional Budget office is the bubble chart below. We would love any ideas or improvements that you might have for better visualizing the tabular data above.
+
+![Alt text](/images/CorpBubble.png?raw=true "Corporate Bubble Plot")
+
