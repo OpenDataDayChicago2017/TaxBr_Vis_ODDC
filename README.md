@@ -27,5 +27,5 @@ One potential visualization using this data that has been used by the Congressio
 
 ![Alt text](/images/CorpBubble.png?raw=true "Corporate Bubble Plot")
 
-Example data from the tabular output above is in the data folder of this repository. Tabular output for options Industry, METTR, and Reform are in [data/ccc_tab_output1.csv]()attached in the 
+Example data from the tabular output above is in the data folder of this repository. Tabular output for options Industry, METTR, and Reform are in [data/ccc_tab_output1.csv](https://github.com/rickecon/TaxBr_Vis_ODDC/blob/master/data/ccc_tab_output1.csv). Tabular output for options Industry, METTR, and Baseline are in [data/ccc_tab_output2.csv](https://github.com/rickecon/TaxBr_Vis_ODDC/blob/master/data/ccc_tab_output2.csv). Tabular output for options Asset, METTR, and Reform are in [data/ccc_tab_output3.csv](https://github.com/rickecon/TaxBr_Vis_ODDC/blob/master/data/ccc_tab_output3.csv). And tabular output for options Asset, METTR, and Baseline are in [data/ccc_tab_output4.csv](https://github.com/rickecon/TaxBr_Vis_ODDC/blob/master/data/ccc_tab_output4.csv).
 
