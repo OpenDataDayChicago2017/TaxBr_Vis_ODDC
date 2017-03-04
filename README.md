@@ -27,3 +27,5 @@ One potential visualization using this data that has been used by the Congressio
 
 ![Alt text](/images/CorpBubble.png?raw=true "Corporate Bubble Plot")
 
+Example data from the tabular output above is in the data folder of this repository. Tabular output for options Industry, METTR, and Reform are in [data/ccc_tab_output1.csv]()attached in the 
+

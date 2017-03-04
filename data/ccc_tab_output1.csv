@@ -1,0 +1,81 @@
+Cost of Capital Calculator tabular output,,,,,,
+"Industry, METTR, Reform",,,,,,
+,Typically Financed,,Equity Financed,,Debt Financed,
+Industry,Corporate,Non-corporate,Corporate,Non-corporate,Corporate,Non-corporate
+All Investments,0.229,0.113,0.265,0.041,0.071,0.284
+"Agriculture, forestry, fishing, and hunting",0.257,0.112,0.291,0.039,0.107,0.283
+Farms,0.257,0.111,0.291,0.038,0.107,0.282
+"Forestry, fishing, and related activities",0.263,0.116,0.298,0.044,0.107,0.287
+Mining,0.162,0.09,0.202,0.016,0.107,0.265
+Oil and gas extraction,0.15,0.087,0.191,0.013,0.107,0.263
+"Mining, except oil and gas",0.218,0.102,0.254,0.029,0.107,0.275
+Support activities for mining,0.184,0.094,0.222,0.02,0.107,0.269
+Utilities,0.168,0.091,0.209,0.017,0.107,0.266
+Construction,0.259,0.111,0.293,0.039,0.107,0.283
+Manufacturing,0.275,0.115,0.307,0.042,0.107,0.286
+Durable goods,,,,,,
+Wood products,0.288,0.116,0.319,0.044,0.15,0.287
+Nonmetallic mineral products,0.275,0.114,0.308,0.041,0.13,0.285
+Primary metals,0.266,0.113,0.299,0.04,0.126,0.284
+Fabricated metal products,0.262,0.111,0.294,0.039,0.121,0.283
+Machinery,0.275,0.116,0.306,0.043,0.138,0.287
+Computer and electronic products,0.272,0.113,0.304,0.041,0.133,0.285
+"Electrical equipment, appliances, and components",0.297,0.12,0.327,0.048,0.165,0.29
+"Motor vehicles, bodies and trailers, and parts",0.265,0.112,0.297,0.04,0.125,0.284
+Other transportation equipment,0.299,0.121,0.329,0.049,0.171,0.291
+Furniture and related products,0.285,0.117,0.317,0.044,0.15,0.288
+Miscellaneous manufacturing,0.29,0.119,0.321,0.047,0.158,0.289
+Nondurable goods,,,,,,
+"Food, beverage, and tobacco products",0.274,0.115,0.306,0.042,0.135,0.286
+Textile mills and textile product mills,0.281,0.115,0.313,0.043,0.144,0.286
+Apparel and leather and allied products,0.31,0.122,0.339,0.05,0.184,0.292
+Paper products,0.253,0.109,0.286,0.036,0.107,0.281
+Printing and related support activities,0.253,0.109,0.287,0.036,0.109,0.281
+Petroleum and coal products,0.279,0.114,0.312,0.042,0.133,0.285
+Chemical products,0.279,0.115,0.311,0.043,0.142,0.287
+Plastics and rubber products,0.264,0.113,0.296,0.04,0.123,0.284
+Wholesale trade,0.301,0.123,0.331,0.052,0.173,0.293
+Retail trade,0.303,0.123,0.334,0.051,0.167,0.292
+Transportation and warehousing,0.179,0.094,0.219,0.02,0.005,0.268
+Air transportation,0.188,0.094,0.226,0.021,0.018,0.269
+Railroad transportation,0.149,0.087,0.191,0.013,-0.04,0.263
+Water transportation,0.193,0.095,0.231,0.022,0.025,0.27
+Truck transportation,0.212,0.099,0.248,0.025,0.054,0.273
+Transit and ground passenger transportation,0.248,0.107,0.283,0.034,0.096,0.279
+Pipeline transportation,0.145,0.086,0.187,0.012,-0.039,0.262
+Other transportation and support activities,0.205,0.098,0.243,0.024,0.038,0.272
+Warehousing and storage,0.284,0.115,0.318,0.043,0.139,0.286
+Information,0.198,0.097,0.236,0.023,0.03,0.271
+Publishing industries (including software),0.278,0.116,0.311,0.044,0.137,0.287
+Motion picture and sound recording industries,0.253,0.11,0.287,0.037,0.104,0.282
+Broadcasting and telecommunications,0.184,0.094,0.224,0.021,0.011,0.269
+Information and data processing services,0.227,0.103,0.261,0.03,0.075,0.277
+Finance and insurance,0.261,0.116,0.295,0.044,0.114,0.287
+Credit intermediation and related activities,0.247,0.108,0.281,0.036,0.098,0.281
+"Securities, commodity contracts, and investments",0.294,0.119,0.326,0.047,0.15,0.289
+Insurance carriers and related activities,0.28,0.115,0.313,0.042,0.14,0.286
+"Funds, trusts, and other financial vehicles",0.308,0.121,0.341,0.05,0.168,0.291
+Real estate and rental and leasing,0.294,0.119,0.328,0.048,0.14,0.289
+Real estate,0.303,0.12,0.337,0.048,0.151,0.289
+Rental and leasing services and lessors of intangible assets,0.183,0.094,0.22,0.02,0.017,0.269
+"Professional, scientific, and technical services",0.256,0.108,0.289,0.036,0.111,0.281
+Legal services,0.268,0.111,0.301,0.039,0.123,0.283
+Computer systems design and related services,0.266,0.111,0.298,0.038,0.125,0.283
+"Miscellaneous professional, scientific, and technical services",0.253,0.108,0.286,0.035,0.107,0.28
+Management of companies and enterprises,0.292,0.117,0.325,0.045,0.149,0.288
+Administrative and waste management services,0.229,0.103,0.265,0.03,0.071,0.276
+Administrative and support services,0.238,0.105,0.273,0.032,0.087,0.278
+Waste management and remediation services,0.215,0.099,0.253,0.026,0.049,0.273
+Educational services,0.284,0.115,0.318,0.043,0.135,0.286
+Health care and social assistance,0.269,0.112,0.304,0.039,0.119,0.283
+Ambulatory health care services,0.259,0.109,0.294,0.037,0.11,0.281
+Hospitals,0.273,0.112,0.308,0.04,0.122,0.283
+Nursing and residential care facilities,0.27,0.112,0.305,0.04,0.121,0.283
+Social assistance,0.269,0.112,0.304,0.04,0.121,0.283
+"Arts, entertainment, and recreation",0.226,0.102,0.263,0.029,0.062,0.275
+"Performing arts, spectator sports, museums, and related activities",0.233,0.103,0.269,0.03,0.071,0.276
+"Amusements, gambling, and recreation industries",0.222,0.101,0.259,0.028,0.057,0.274
+Accommodation and food services,0.296,0.118,0.328,0.046,0.152,0.289
+Accommodation,0.308,0.121,0.34,0.049,0.166,0.29
+Food services and drinking places,0.278,0.112,0.311,0.04,0.132,0.284
+"Other services, except government",0.263,0.109,0.297,0.037,0.112,0.281
