@@ -33,7 +33,7 @@ Example data from the tabular output above is in the data folder of this reposit
 
 [TaxBrain](https://www.ospc.org/TaxBrain/) ([https://www.ospc.org/TaxBrain/](https://www.ospc.org/TaxBrain/)) is a front-end web app for an underlying microsimulation model and other richer models that takes tax policy parameters and macroeconomic model parameters and estimates the changes on federal tax revenues based on changes in those parameters. TaxBrain also provides estimates of the changes in tax liabilities to different segments of the population by decile of the income distribution and by age. The microsimulation model is called Tax-Calculator and all its code is available at [https://github.com/open-source-economics/Tax-Calculator](https://github.com/open-source-economics/Tax-Calculator). The web application front end code is also available at [https://github.com/opensourcepolicycenter/webapp-public](https://github.com/opensourcepolicycenter/webapp-public).
 
-Below is a screenshot of the first table of output of a run of Tax-Calculator from TaxBrain.
+Below is a screenshot of the first table of output of a run of Tax-Calculator from TaxBrain. A csv file of that table is available in the data folder of this repository [data/tc_table1.csv](https://github.com/rickecon/TaxBr_Vis_ODDC/blob/master/data/tc_table1.csv).
 
 ![Alt text](/images/TaxCalcTable1.png?raw=true "Tax Calculator Table 1")
 
